@@ -1,0 +1,151 @@
+.dashboard-section{
+    padding: 20px;
+}
+.dashboard-content{
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 150%;
+    letter-spacing: -0.023em;
+    color: #000000;
+}
+.dashboard-row{
+    display: flex;
+}
+.dropdown-content{
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+    margin-left: 30px;
+    border: none;
+    color: #1C1C1C;   
+}
+.card-section{
+    padding: 5px;
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+}
+.img{
+    position: absolute;
+    top: -40px;
+}
+.card-wrapper{
+    position: relative;
+}
+.card{
+    height: 70px;
+    width: 180px;
+    padding: 10px 5px;
+    margin: 0px 7px;
+    border: none !important;
+    border-radius: 3px;
+}
+.card-patient{
+    background-color: #CFECF4 !important;
+}
+.card-appoinment{
+    background-color: #FFE5EC !important;
+}
+.card-upcoming{
+    background-color: #FFECD8 !important;
+}
+.card-content{
+    padding: 5px;
+    margin-left: auto;
+    text-align: end;
+}
+.card-content p{
+    margin-bottom: 0px;
+}
+.card-name{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: right;
+    padding-bottom: 6px;
+    color: #656565;
+}
+.card-count{
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+.stacked-chart{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(140, 140, 140, 0.25);
+    border-radius: 20px;
+    border: none;
+    margin: 10px 0px;
+}
+.feedback-card{
+    width: 285px;
+    height: 180px;
+    left: 270px;
+    top: 589px;
+    padding: 20px;
+    margin-right: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(140, 140, 140, 0.25);
+    border-radius: 20px;
+}
+.feedback-content{
+    font-family: 'Fredoka';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    padding-bottom: 40px;
+    color: #000000;
+}
+.feedback-imgcontent{
+    padding-right: 15px;
+}
+.inventory-card{
+    width: 285px;
+    height: 180px;
+    left: 270px;
+    top: 589px;
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(140, 140, 140, 0.25);
+    border-radius: 20px;
+}
+.inventory-secondcontent{
+    padding-left: 30px;
+}
+.ellipse-imgcontent{
+    padding-bottom: 7px;
+}
+.ellipse-valuescontent{
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: -0.023em;
+    color: #000000;
+}
+.stock-content{
+    font-family: 'Metropolis';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: -0.023em;
+    padding-left: 6px;
+    padding-bottom: 15px;
+    color: #656565;
+
+}
