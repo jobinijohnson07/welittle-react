@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/welittle-react/static/css/main.e48cfceb.css",
+    "main.js": "/welittle-react/static/js/main.1af87a3e.js",
+    "static/js/787.50662352.chunk.js": "/welittle-react/static/js/787.50662352.chunk.js",
+    "static/media/patientImg.svg": "/welittle-react/static/media/patientImg.9b5529579b299933a1deba32105fe7b7.svg",
+    "static/media/18.svg": "/welittle-react/static/media/18.44651cd1dc493ce34fa6dc7ed0bc0798.svg",
+    "static/media/40.svg": "/welittle-react/static/media/40.6758beca81e8a1e1d45d6149cdf116f0.svg",
+    "static/media/1.svg": "/welittle-react/static/media/1.5a36c621ed4bc34d7afb1850a979c203.svg",
+    "static/media/20.svg": "/welittle-react/static/media/20.b6318891fb0332ff2c7eb5e2f557359d.svg",
+    "static/media/10.svg": "/welittle-react/static/media/10.c2ca250719b4e24a22d94d6465ec2159.svg",
+    "static/media/upcomingImg.svg": "/welittle-react/static/media/upcomingImg.bab5cde0b9a1d4289bdbf88caf7ecba8.svg",
+    "static/media/appoinmentImg.svg": "/welittle-react/static/media/appoinmentImg.5a38665522424842bee5af1b1846d462.svg",
+    "static/media/welogo.svg": "/welittle-react/static/media/welogo.6f92dad46f64260c2cc78454e1568f54.svg",
+    "static/media/dashboardicon.svg": "/welittle-react/static/media/dashboardicon.2b2f4be4bdef1c720fd0c6079660f908.svg",
+    "static/media/consult.svg": "/welittle-react/static/media/consult.70cf3647c81797c7a8cdb854fdf5a6b8.svg",
+    "index.html": "/welittle-react/index.html",
+    "static/media/stoke.svg": "/welittle-react/static/media/stoke.2c23f53ed8c88ec0610402925ccf829f.svg",
+    "static/media/feedback.svg": "/welittle-react/static/media/feedback.bc5efa90a49c44b71e079e13d3d0ef63.svg",
+    "static/media/revenue.svg": "/welittle-react/static/media/revenue.d0fc5cb596af3e89a134f7727cc9f05b.svg",
+    "static/media/enquires.svg": "/welittle-react/static/media/enquires.7abc3eafe0303852b3d0de23c6a4f200.svg",
+    "static/media/inventory.svg": "/welittle-react/static/media/inventory.3aa05ff6d9db30edaeb3a185bba50db5.svg",
+    "static/media/patient.svg": "/welittle-react/static/media/patient.7d9065b7141e19e99a28ed530031e37a.svg",
+    "static/media/firstellipse.svg": "/welittle-react/static/media/firstellipse.9f00ed3e8a85397fa29f261853e759c3.svg",
+    "static/media/secondellipse.svg": "/welittle-react/static/media/secondellipse.a66acfc389dcc90041e3d5c155076607.svg",
+    "static/media/thirdellipse.svg": "/welittle-react/static/media/thirdellipse.853ef618634e62a8deb6b479bf742a69.svg",
+    "main.e48cfceb.css.map": "/welittle-react/static/css/main.e48cfceb.css.map",
+    "main.1af87a3e.js.map": "/welittle-react/static/js/main.1af87a3e.js.map",
+    "787.50662352.chunk.js.map": "/welittle-react/static/js/787.50662352.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e48cfceb.css",
+    "static/js/main.1af87a3e.js"
+  ]
+}
